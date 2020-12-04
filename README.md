@@ -26,7 +26,7 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 * [_JetBrains Academy_](https://www.jetbrains.com/academy/)  Free trial on JetBrains Academy. If you are looking for a complete course start here, the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
 * [_Edx_](https://www.edx.org/) 
-[_Edx.org_](https://www.edx.org/search?q=python  &tab=course) 94 PYTHON (and related Libraries) Free and Certified course from the top Universities in the world.  Best career development certificates on the market and your own time-frame, with your own learning curve."
+[_Edx.org_](https://www.edx.org/search?q=python) 94 PYTHON (and related Libraries) Free and Certified course from the top Universities in the world.  Best career development certificates on the market and your own time-frame, with your own learning curve."
 
 ### Coding Challenges
 
