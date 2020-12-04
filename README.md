@@ -144,6 +144,11 @@ WxPython into a people-friendly Pythonic interfaces
 * [_Tkinter Tutorial_](https://likegeeks.com/python-gui-examples-tkinter-tutorial/) Learn how to develop graphical 
 user interfaces by writing some Python GUI examples using Tkinter package.
 
+### Real-Time Collaboration Tools
+* [_DeepNote_]https://deepnote.com - Share your Python files with collegues and collaborate in real time to improve it.
+* [_GoogleCollab_]https://colab.research.google.com - Google's high power, real-time solution for programmers that want to collaborate
+and share their projects.
+
 ### HTML
 
 * [_CodePen_](https://codepen.io/pen/) An online code editor, learning environment, and community for front-end web 
