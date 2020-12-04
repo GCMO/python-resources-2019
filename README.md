@@ -145,8 +145,8 @@ WxPython into a people-friendly Pythonic interfaces
 user interfaces by writing some Python GUI examples using Tkinter package.
 
 ### Real-Time Collaboration Tools
-* [_DeepNote_]https://deepnote.com - Share your Python files with collegues and collaborate in real time to improve it.
-* [_GoogleCollab_]https://colab.research.google.com - Google's high power, real-time solution for programmers that want to collaborate
+* [_DeepNote_](https://deepnote.com) - Share your Python files with collegues and collaborate in real time to improve it.
+* [_GoogleCollab_](https://colab.research.google.com) - Google's high power, real-time solution for programmers that want to collaborate
 and share their projects.
 
 ### HTML
