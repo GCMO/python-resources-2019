@@ -25,6 +25,7 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 ### Classes
 
 * [_JetBrains Academy_](https://www.jetbrains.com/academy/)  Free trial on JetBrains Academy. If you are looking for a complete course start here, the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
+* [_Edx.org_](https://courses.edx.org/courses/course-v1:UTAx+CSE1309x+2016T1/course/) Introduction to Programming using Python. Extremelly well structured. Very little theoretical fluf and blablabla. 5min video lessons max and tons of challenging exercises related to the class. Teacher is very clear and goes straight to the coding. 
 * [_Edx.org_](https://www.edx.org/search?q=python) 94 PYTHON (and related Libraries) Free and Certified courses from the top Universities in the world.  Best career development certificates on the market at your own time-frame, with your own learning curve."
 
 ### Coding Challenges
