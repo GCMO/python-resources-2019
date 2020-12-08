@@ -3,7 +3,7 @@
 additions to the list please open an issue.
 
 
-### Books
+### BOOKS
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
 new to python. Note there's earlier version _Learn Python the Hard Way_ that covers Python 2.
@@ -24,14 +24,14 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 * [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
 
 
-### Classes
+### CLASSES
 
 * [_JetBrains Academy_](https://www.jetbrains.com/academy/)  Free trial on JetBrains Academy. If you are looking for a complete course start here, the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
 * [_Edx.org_](https://courses.edx.org/courses/course-v1:UTAx+CSE1309x+2016T1/course/) Introduction to Programming using Python. Extremelly well structured. Very little theoretical fluf and blablabla. 5min video lessons max and tons of challenging exercises related to the class. Teacher is very clear and goes straight to the coding. 
 * [_Edx.org_](https://www.edx.org/search?q=python) 94 PYTHON (and related Libraries) Free and Certified courses from the top Universities in the world.  Best career development certificates on the market at your own time-frame, with your own learning curve."
 
 
-### Coding Challenges
+### CODING CHALLENGES
 
 * [_Stepik_](https://stepik.org/) 100s of problems with adaptive difficulty. After solving a few problems Stepik 
 provides a free 3 month (renewable) Educational License for the complete JetBrains suite, including PyCharm Pro.
@@ -51,7 +51,7 @@ https://github.com/kuzmich/python-challenge-solution/blob/master/solution.ipynb)
 completing the problems.
 
 
-### Community
+### COMMUNITY
 
 * [_CodeTriage_](https://www.codetriage.com/) Help out your favorite open source projects and become a better 
 developer while doing it. Pick your favorite repos to receive a different open issue in your inbox every day. Fix 
@@ -78,7 +78,7 @@ an answer here.
     languages
 
 
-### Documentation
+### DOCUMENTATION
 
 * [_Python 3.9 documentation_](https://docs.python.org/3/)
 
@@ -106,7 +106,7 @@ an answer here.
 * TENSORFLOW
 
 
-### Flask
+### FLASK
 
 * [_The Flask Mega-Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
@@ -115,14 +115,14 @@ an answer here.
  and more.
 
 
-### Free
+### FREE
 
 * [_Free for developers_](https://free-for.dev/#/) Developers and Open Source authors now have a massive amount of 
 services offering free tiers, but it can be hard to find them all to make informed decisions. This is a list of software
 (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.
 
 
-### Git
+### GIT
 
 * [_GitHub Help_](https://help.github.com/en#dotcom) Help with all things Git.
 
@@ -130,7 +130,7 @@ services offering free tiers, but it can be hard to find them all to make inform
 
 * [_Learn Git Branching_](https://learngitbranching.js.org/)
 
-### GUI related
+### GUI RELATED
 
 * [_Dear PyGui_](https://pypi.org/project/dearpygui/) Dear PyGui is a simple to use (but powerful) Python GUI framework. 
 DearPyGui provides a wrapping of DearImGui that provides a hybrid of a traditional retained mode GUI and Dear ImGui's 
@@ -149,7 +149,7 @@ WxPython into a people-friendly Pythonic interfaces
 * [_Tkinter Tutorial_](https://likegeeks.com/python-gui-examples-tkinter-tutorial/) Learn how to develop graphical 
 user interfaces by writing some Python GUI examples using Tkinter package.
 
-### Real-Time Collaboration Tools
+### REAL-TIME COLLABORATION TOOLS
 * [_DeepNote_](https://deepnote.com) - Share your Python files with collegues and collaborate in real time to improve it.
 * [_GoogleCollab_](https://colab.research.google.com) - Google's high power, real-time solution for programmers that want to collaborate
 and share their projects.
@@ -175,7 +175,9 @@ and designed by and for scientists, engineers and data analysts.
 
 * [_Jupyter_](https://www.jupyter.org) JupyterLab is a web-based interactive development environment for Jupyter notebooks, code, 
 and data.
-### Packages
+
+
+### PACKAGES
 
 * [_BeautifulSoup_](https://www.dataquest.io/blog/web-scraping-tutorial-python/) Python Web Scraping Using BeautifulSoup
 
@@ -197,7 +199,7 @@ development and clean, pragmatic design.
 https://www.reddit.com/r/Python/comments/ilrse8/a_collections_of_useful_python_modules_in_a/) A collections of useful 
 Python modules, in a little to no order whatsoever…
 
-### Practice Problems with Solutions
+### PRACTICE PROBLEMS WITH SOLUTIONS
 
 * [_w3resource's Python Exercises_](https://www.w3resource.com/python-exercises/), 100s of exercises with solutions, 
 includes several external packages. 
@@ -215,14 +217,14 @@ includes several external packages.
 
 * [_Learn X in Y minutes_](https://learnxinyminutes.com/docs/python3/) Where X=python3
 
-### Regex
+### REGEX
 
 * [_Awesome Regex_](https://github.com/aloisdg/awesome-regex) A curated collection of awesome Regex libraries, tools, 
 frameworks and software.
 
 * [_Regex Pal_](https://www.regexpal.com/) A regular expression tester. 
 
-### Sample Code
+### SAMPLE CODE
 
 * [_PythonStdioGames_](https://github.com/asweigart/PythonStdioGames) A collection of text-based games written in 
 Python 3 that only use "standard i/o". By Al Sweigart of inventwithpython.com, it's aimed at being easy to copy and 
@@ -237,7 +239,7 @@ reduce human workload.
 
 * [_CodesCracker Python Programming Examples_](https://codescracker.com/python/program/index.htm)
 
-### Solutions
+### SOLUTIONS
 
 * [_Hitchhikers scenario-guide-for-python-applications_](
 https://docs.python-guide.org/#scenario-guide-for-python-applications)
@@ -245,7 +247,7 @@ https://docs.python-guide.org/#scenario-guide-for-python-applications)
 * [_Awesome Python_](https://github.com/vinta/awesome-python) "A curated list of awesome Python frameworks, libraries,
  software and resources"
  
-### Stydy Guides
+### STUDY GUIDES
 
 * [_A syllabus for learning Python and Django_](
 https://www.notion.so/4f0d76b4b6b54c88a4c99d665018bb66?v=a4f27ffcbe0a4776b796eed1eb1bb366) 
@@ -262,7 +264,7 @@ code comprising the standard library in the main Python distribution.
 
 * [_The Hitchhiker’s Guide to Python_](https://docs.python-guide.org/)
 
-### Testing
+### TESTING
 
 * [_pysnooper_](https://pypi.org/project/PySnooper/) PySnooper - Never use print for debugging again
 
@@ -271,7 +273,7 @@ https://www.jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit
 
 * [_Getting Started With Testing in Python_](https://realpython.com/python-testing/)
 
-### Tutorials
+### TUTORIALS
 
 * [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise. 
 
@@ -348,7 +350,7 @@ much more.
 using by default but it wasn’t clear where in the Django source code it was written.
  
 
-### Other Resources
+### OTHER RESOURCES
 
 * [_Pixabay_](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented 
 community.
