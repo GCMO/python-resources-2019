@@ -81,15 +81,14 @@ an answer here.
 
 ### PYTHON LIBRARIES
 --- NUMPY
-"\n",
+
 --- PANDAS
-"The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:\n",
-    "\n",
-    "- [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)\n",
-    "- [pandas basics](http://pandas.pydata.org/pandas-docs/stable/basics.html)\n",
-    "- [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)\n",
-    "- [cookbook and idioms](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook)\n",
-    "\n",
+The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:
+    - [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+    - [pandas basics](http://pandas.pydata.org/pandas-docs/stable/basics.html)
+    - [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+    - [cookbook and idioms](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook)
+    
 --- MATPLOTLIB
 --- SCIKIT
 --- TENSORFLOW
