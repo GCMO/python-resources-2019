@@ -2,6 +2,7 @@
 **(Updated 2020/12/04)** A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
+
 ### Books
 
 * [_Learn Python 3 the Hard Way_](https://learnpythonthehardway.org/) A good starting place if you are 
@@ -22,11 +23,13 @@ https://runestone.academy/runestone/books/published/thinkcspy/index.html#)
 
 * [_Python Cookbook: Recipes for Mastering Python 3_](https://www.amazon.ca/Python-Cookbook-Recipes-Mastering-ebook/dp/B00DQV4GGY) - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
 
+
 ### Classes
 
 * [_JetBrains Academy_](https://www.jetbrains.com/academy/)  Free trial on JetBrains Academy. If you are looking for a complete course start here, the Python track. "It's a one-stop shop for reading about concepts, practicing them and then immediately applying them in projects. An all-in-one learning tool."
 * [_Edx.org_](https://courses.edx.org/courses/course-v1:UTAx+CSE1309x+2016T1/course/) Introduction to Programming using Python. Extremelly well structured. Very little theoretical fluf and blablabla. 5min video lessons max and tons of challenging exercises related to the class. Teacher is very clear and goes straight to the coding. 
 * [_Edx.org_](https://www.edx.org/search?q=python) 94 PYTHON (and related Libraries) Free and Certified courses from the top Universities in the world.  Best career development certificates on the market at your own time-frame, with your own learning curve."
+
 
 ### Coding Challenges
 
@@ -46,6 +49,7 @@ https://github.com/kuzmich/python-challenge-solution/blob/master/solution.ipynb)
 
 * [_Hacker Rank_](https://www.hackerrank.com/) 100s of Python problems for you to solve, solutions available after 
 completing the problems.
+
 
 ### Community
 
@@ -73,25 +77,31 @@ an answer here.
     - [_/r/PythonPuzzles_](https://www.reddit.com/r/PythonPuzzles/) ­— Regular code puzzles in the Python programming 
     languages
 
+
 ### Documentation
 
 * [_Python 3.9 documentation_](https://docs.python.org/3/)
 
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
 
+
 ### PYTHON LIBRARIES
+
 --- NUMPY
 
 --- PANDAS
 The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:
-    - [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-    - [pandas basics](http://pandas.pydata.org/pandas-docs/stable/basics.html)
-    - [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
-    - [cookbook and idioms](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook)
+    - [_10 minutes to pandas_](http://pandas.pydata.org/pandas-docs/stable/10min.html).
+    - [_pandas basics_](http://pandas.pydata.org/pandas-docs/stable/basics.html).
+    - [_tutorials_](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
+    - [_cookbook and idioms_](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook).
     
 --- MATPLOTLIB
+
 --- SCIKIT
+
 --- TENSORFLOW
+
 
 ### Flask
 
@@ -100,6 +110,7 @@ The official documentation is very extensive. Here are a few resources to get a 
 * [_Flask Tutorial HackersAndSlackers_](https://hackersandslackers.com/series/build-flask-apps) Create web applications
  and APIs with Python’s most popular framework. We cover everything from routing, database integrations, user accounts, 
  and more.
+
 
 ### Free
 
