@@ -73,35 +73,21 @@ an answer here.
     - [_/r/PythonPuzzles_](https://www.reddit.com/r/PythonPuzzles/) ­— Regular code puzzles in the Python programming 
     languages
 
-### Django
-
-* [_Bootstrap_](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template) Get started with 
-Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a 
-template starter page.
-
-* [_Django, Docker, and PostgreSQL Tutorial_](https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial)
-In this tutorial we will create a new Django project using Docker and PostgreSQL. Django ships with built-in SQLite 
-support but even for local development you are better off using a "real" database like PostgreSQL that matches what 
-is in production. (pipenv)
-
-* [_Docker: Quickstart: Compose and Django_](https://docs.docker.com/compose/django/) This quick-start guide 
-demonstrates how to use Docker Compose to set up and run a simple Django/PostgreSQL app. (venv) 
-
-* [_Getting started with Django_](https://www.djangoproject.com/start/) The official tutorial.
-
-* [_Corey Schafer Python Django Tutorials_](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-In this series, we will be learning how to build a full-featured Django application for scratch. We will learn how to 
-get started with Django, use templates, create a database, upload pictures, create an authentication system, and much 
-much more.
-
-* [_Django Source Code_](https://github.com/django/django) Great for searching when looking for what text Django was 
-using by default but it wasn’t clear where in the Django source code it was written.
-
 ### Documentation
 
 * [_Python 3.9 documentation_](https://docs.python.org/3/)
 
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
+
+### PYTHON LIBRARIES
+--- PANDAS
+"The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:\n",
+    "\n",
+    "- [10 minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)\n",
+    "- [pandas basics](http://pandas.pydata.org/pandas-docs/stable/basics.html)\n",
+    "- [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)\n",
+    "- [cookbook and idioms](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook)\n",
+    "\n",
 
 ### Flask
 
@@ -149,13 +135,6 @@ user interfaces by writing some Python GUI examples using Tkinter package.
 * [_DeepNote_](https://deepnote.com) - Share your Python files with collegues and collaborate in real time to improve it.
 * [_GoogleCollab_](https://colab.research.google.com) - Google's high power, real-time solution for programmers that want to collaborate
 and share their projects.
-
-### HTML
-
-* [_CodePen_](https://codepen.io/pen/) An online code editor, learning environment, and community for front-end web 
-development using HTML, CSS and JavaScript code snippets.
-
-* [_HTML Reference_](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### IDEs
 
@@ -276,8 +255,6 @@ https://www.jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit
 
 ### Tutorials
 
-* [_Django_](https://docs.djangoproject.com/en/3.0/) Includes basic and advanced tutorials.
-
 * [_w3schools Python Tutorial_](https://www.w3schools.com/python/default.asp) Clear and concise. 
 
 * [_Programiz_](https://www.programiz.com/python-programming) Learn Python Programming: The Definitive Guide
@@ -307,7 +284,8 @@ a massive variety of topics.
 https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/)
  
  * [_Python Tutorial_](https://www.guru99.com/python-tutorials.html) 
-
+ 
+ * [_Django_](https://docs.djangoproject.com/en/3.0/) Includes basic and advanced tutorials.
 
 
 ### Youtube
@@ -318,7 +296,40 @@ https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-pytho
 
 * [_Python Programming for Network Engineers_](https://www.youtube.com/playlist?list=PLhfrWIlLOoKPn7T9FtvbOWX8GxgsFFNwn) A Youtube course on Python programming/automation for network engineers.
 
+
+### HTML
+
+* [_CodePen_](https://codepen.io/pen/) An online code editor, learning environment, and community for front-end web 
+development using HTML, CSS and JavaScript code snippets.
+
+* [_HTML Reference_](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+
+### Django
+
+* [_Bootstrap_](https://getbootstrap.com/docs/4.0/getting-started/introduction/#starter-template) Get started with 
+Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a 
+template starter page.
+
+* [_Django, Docker, and PostgreSQL Tutorial_](https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial)
+In this tutorial we will create a new Django project using Docker and PostgreSQL. Django ships with built-in SQLite 
+support but even for local development you are better off using a "real" database like PostgreSQL that matches what 
+is in production. (pipenv)
+
+* [_Docker: Quickstart: Compose and Django_](https://docs.docker.com/compose/django/) This quick-start guide 
+demonstrates how to use Docker Compose to set up and run a simple Django/PostgreSQL app. (venv) 
+
+* [_Getting started with Django_](https://www.djangoproject.com/start/) The official tutorial.
+
+* [_Corey Schafer Python Django Tutorials_](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+In this series, we will be learning how to build a full-featured Django application for scratch. We will learn how to 
+get started with Django, use templates, create a database, upload pictures, create an authentication system, and much 
+much more.
+
+* [_Django Source Code_](https://github.com/django/django) Great for searching when looking for what text Django was 
+using by default but it wasn’t clear where in the Django source code it was written.
  
+
 ### Other Resources
 
 * [_Pixabay_](https://pixabay.com/) Over 1 million+ high quality stock images and videos shared by our talented 
