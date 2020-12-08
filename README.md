@@ -89,9 +89,7 @@ an answer here.
 
 * NUMPY
 
-* PANDAS
-
-The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:
+* PANDAS: The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:
      - [_10 minutes to pandas_](http://pandas.pydata.org/pandas-docs/stable/10min.html) Subreddit for posting questions and asking for 
     general advice about your python code.
     - [_pandas basics_](http://pandas.pydata.org/pandas-docs/stable/basics.html) News about the dynamic, interpreted, interactive, 
