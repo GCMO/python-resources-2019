@@ -91,7 +91,8 @@ an answer here.
 
 --- PANDAS
 The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:
-    - [_10 minutes to pandas_](http://pandas.pydata.org/pandas-docs/stable/10min.html).
+
+    - [_10 minutes to pandas_](http://pandas.pydata.org/pandas-docs/stable/10min.html) coding challenges and practice material.
     - [_pandas basics_](http://pandas.pydata.org/pandas-docs/stable/basics.html).
     - [_tutorials_](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
     - [_cookbook and idioms_](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook).
