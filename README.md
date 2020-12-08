@@ -87,9 +87,10 @@ an answer here.
 
 ### PYTHON LIBRARIES
 
---- NUMPY
+* NUMPY
 
---- PANDAS
+* PANDAS
+
 The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:
      - [_10 minutes to pandas_](http://pandas.pydata.org/pandas-docs/stable/10min.html) Subreddit for posting questions and asking for 
     general advice about your python code.
@@ -105,11 +106,11 @@ The official documentation is very extensive. Here are a few resources to get a 
     - [_tutorials_](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
     - [_cookbook and idioms_](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook).
     
---- MATPLOTLIB
+* MATPLOTLIB
 
---- SCIKIT
+* SCIKIT
 
---- TENSORFLOW
+* TENSORFLOW
 
 
 ### Flask
