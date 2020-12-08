@@ -80,6 +80,8 @@ an answer here.
 * [_Quick sphinx primer_](http://scriptsonscripts.blogspot.com/2012/09/quick-sphinx-documentation-for-python.html)
 
 ### PYTHON LIBRARIES
+--- NUMPY
+"\n",
 --- PANDAS
 "The official documentation is very extensive. Here are a few resources to get a good overview of Pandas:\n",
     "\n",
@@ -88,6 +90,9 @@ an answer here.
     "- [tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)\n",
     "- [cookbook and idioms](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook)\n",
     "\n",
+--- MATPLOTLIB
+--- SCIKIT
+--- TENSORFLOW
 
 ### Flask
 
