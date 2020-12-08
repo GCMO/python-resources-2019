@@ -99,11 +99,6 @@ an answer here.
     - [_cookbook and idioms_](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook) — The focus of this subreddit is to provide 
     bi-daily challenges to keep your mind and fingers busy between projects.
     
-    - [_10 minutes to pandas_](http://pandas.pydata.org/pandas-docs/stable/10min.html) coding challenges and practice material.
-    - [_pandas basics_](http://pandas.pydata.org/pandas-docs/stable/basics.html).
-    - [_tutorials_](http://pandas.pydata.org/pandas-docs/stable/tutorials.html).
-    - [_cookbook and idioms_](http://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook).
-    
 * MATPLOTLIB
 
 * SCIKIT
