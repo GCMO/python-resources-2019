@@ -89,7 +89,7 @@ an answer here.
 
 * NUMPY: Is the Must KNOW library for all programmers that want to Master Python and advenced Mathematical logic.
 
-### DATASCIENCE
+#### DATASCIENCE
 * PANDAS: The best resource to create Tables (Series & DataFrames). Pandas is To Python like Excel is to MSOffice. 
           Pandas is fundamental in DataScience Projects. The official documentation is very extensive, following are a few resources for a good overview:
         - [_10 minutes to pandas_](http://pandas.pydata.org/pandas-docs/stable/10min.html) Subreddit for posting questions and asking for 
@@ -101,7 +101,7 @@ an answer here.
         bi-daily challenges to keep your mind and fingers busy between projects.
 * MATPLOTLIB: Often associated to Pandas for DataScience is one of the most used resource for plotting your DataFrames.
 
-### WEBSCRAPPING
+#### WEBSCRAPPING
 * REQUESTS: Pulls HTML from any site, given a specific url. Always best to precisely aim at the specific Div or Class to minimize script pulled.
 * BEAUTYFULSOUP: One of the many HTML Parsing Libraries. Helps with all HTML & CSS pulled from a Site. 
 
